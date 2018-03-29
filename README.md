@@ -1,28 +1,20 @@
-# This is a large heading
+# Juan San Martín Faúndez
 
-## This is a smaller heading
+### Lugar donde vivo
 
-And as **imagination** bodies forth, The forms of things *unknown*, the poet’s pen, Turns them to shapes and gives to airy nothing, A local *habitation* and a 
-**name**.
+Yo vivio en la ciudad de SANTIAGO, en la región METROPOLITANA, en CHILE.
 
-- This is 
-- an unordered 
-- list 
+### Lectura
 
-1. This is 
-2. an ordered 
-3. list 
+Mis lecturas favoritas son: 
+- *Científica*, todo tipo de libros. 
+- *Historia de Chile*, escritores actuales y antiguos. 
+- *Manga*, de Japón y Corea.
 
-Here is `some code` in the middle of a sentence. 
+### Comida
 
-``` 
-This is a block of code 
-``` 
+Me gusta comer de todo, mis platos favoritos son: 1. Lassaña. 2. Costillar de cerdo a la parrilla. 3. Ceviche.
 
-Here 
+### Contacto
 
-is how you make [a link](https://www.wikipedia.org/). 
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+La mejor manera de contactarme es a través de mi e-mail (san_martinf@yahoo.es).
